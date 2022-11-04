@@ -1,7 +1,9 @@
-package go_koans
+package main
 
-import "io/ioutil"
-import "strings"
+import (
+	"io/ioutil"
+	"strings"
+)
 
 func aboutFiles() {
 	filename := "about_files.go"

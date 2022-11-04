@@ -1,4 +1,4 @@
-package go_koans
+package main
 
 func aboutMaps() {
 	ages := map[string]int{

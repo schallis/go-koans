@@ -1,4 +1,4 @@
-package go_koans
+package main
 
 func aboutAllocation() {
 	a := new(int)
